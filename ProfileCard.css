@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.profile-img{
+    width: 24%;
+    border-radius: 50%;
+}
+
+.profile-img-container{
+    margin-top: 5.2rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2.2rem;
+    
+   
+}
+
+.profile-details{
+    display: flex;
+    flex-direction: column;
+}
+
+hr{
+    width: 100%;
+    border: 2px dotted #ccc;
+}
+
+
+
+.enttire-body{
+    background-color: ;
+}
